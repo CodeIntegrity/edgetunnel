@@ -2,8 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '21f0122f-5220-449b-b84d-78a915b233e8';
-let proxyIP = 'sg.ipdb.rr.nu,nl.ipdb.rr.nu,hk.ipdb.rr.nu,jp.ipdb.rr.nu,us.ipdb.rr.nu,hk.cf.zhetengsha.eu.org,sg.cf.zhetengsha.eu.org,us.cf.zhetengsha.eu.org,jp.cf.zhetengsha.eu.org,bpb.yousef.isegaro.com,proxy.xxxxxxxx.tk,cdn.xn--b6gac.eu.org,cdn-all.xn--b6gac.eu.org,edgetunnel.anycast.eu.org
-';
+let proxyIP = '';
 let sub = '';
 let subconverter = 'SUBAPI.fxxk.dedyn.io';
 let subconfig = "https://raw.githubusercontent.com/CodeIntegrity/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_NoCountry_MultiMode.ini";
