@@ -23,13 +23,7 @@ let go2Socks5s = [
 	'*cloudatacdn.com',
 	'*.loadshare.org',
 ];
-let addresses = ['cf.090227.xyz#官方优选',
-'192.168.10.50:1234#HCFNAT'，
-'192.168.1.10:1234#NCFNAT'，
-'1.1.1.22#CF22'，
-'1.1.1.33#CF33'，
-'1.0.0.44#CF44'，
-'1.0.0.55#CF55'];
+let addresses = ['cf.090227.xyz#官方优选','192.168.10.50:1234#HCFNAT','192.168.1.10:1234#NCFNAT','1.1.1.22#CF22'];
 let addressesapi = ['https://addressesapi.090227.xyz/ip.164746.xyz'];
 let addressesnotls = [];
 let addressesnotlsapi = [];
